@@ -1,4 +1,4 @@
 <center>
-		<img src="./header.png" width="100%" />
+		<img src="./header.gif" width="100%" />
 		</img>
 </center>
